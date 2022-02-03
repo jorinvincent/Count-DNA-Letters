@@ -1,2 +1,2 @@
 #!/bin/bash
-python count.py
+python3 /autograder/submission/count.py
